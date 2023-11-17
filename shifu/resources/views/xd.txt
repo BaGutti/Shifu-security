@@ -1,0 +1,44 @@
+<header id="header" class="z-20">
+                            <div>
+                                <p class="mb-2 text-sm leading-6 font-semibold text-indigo-500 dark:text-indigo-400">Prueba Shifu</p>
+                                <div class="flex items-center">
+                                    <h1 class="inline-block text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight dark:text-slate-200">¡Evalua este Correo!</h1>
+                                </div>
+                            </div>
+                            <p class="mt-2 text-lg text-slate-700 dark:text-slate-400">Customizing the default breakpoints for your project.</p>
+                        </header>
+                        <div class="z-20 prose prose-slate mt-8 dark:prose-dark">
+                            <strong>Apples</strong>
+                            <p>The apple is the pomaceous fruit of the apple tree.</p>
+                            <article>
+                                <h2>Red Delicious</h2>
+                                <p>These bright red apples are the most common found in many
+                                supermarkets.</p>
+                                <p>... </p>
+                                <p>... </p>
+                            </article>
+                            <article>
+                                <h2>Granny Smith</h2>
+                                <p>These juicy, green apples make a great filling for
+                                apple pies.</p>
+                                <p>... </p>
+                                <p>... </p>
+                            </article>
+                        </div>  
+
+
+                        <article>
+        <h1><strong>¿Para qué sirve esta herramienta?</strong></h1>
+        <p>La herramienta web Shifu está diseñada para entrenar a las personas para evitar ataques de ingeniería social</p>
+        <hr>
+        <h1><strong>¿Cúal es la meta de este proyecto?</strong></h1>
+        <p>El proyecto <strong>"Mente segura. Una estrategia para evitar ataques de ingeniería social."</strong> busca concientizar a la población de que existen atacantes informáticos, como operan y como hacerle frente ante estos posibles ataques.</p>
+        <p>... </p>
+        <p>... </p>
+    </article>
+    <article>
+        <h2>Granny Smith</h2>
+        <p>These juicy, green apples make a great filling for apple pies.</p>
+        <p>... </p>
+        <p>... </p>
+    </article>
